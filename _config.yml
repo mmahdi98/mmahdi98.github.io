@@ -1,5 +1,8 @@
-title: M. Momenzadeh Personal Website
-description: this is my Website
+title: M. Mahdi Momenzadeh
+description: Personal Website
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
+safe: true
+disable_disk_cache: true
+kramdown: GFM
